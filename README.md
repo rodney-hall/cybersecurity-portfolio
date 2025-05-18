@@ -37,7 +37,7 @@ Real-world projects and simulations from Google’s professional cybersecurity t
 
 Feel free to connect or ask questions:
 
-- 🔗 [LinkedIn](https://linkedin.com/in/hallrodney) *(replace with your actual link)*
+- 🔗 [LinkedIn](https://linkedin.com/in/hallrodney) 
 - ✉️ rjhall2017@gmail.com
 
 ---
