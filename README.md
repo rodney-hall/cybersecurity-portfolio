@@ -49,6 +49,6 @@ Real-world projects and simulations from Google’s professional cybersecurity t
 Feel free to connect or ask questions:
 - 🔗 [LinkedIn](https://linkedin.com/in/hallrodney)
 - https://rodney-hall.github.io/cybersecurity-portfolio/
-- ✉️ rjhall2017@gmail.com
+- ✉️ rodney7hall@gmail.com
 
 ---
