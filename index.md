@@ -11,45 +11,53 @@ Hi, I’m **Rodney Hall** — a cybersecurity analyst in training with hands-on 
 
 ## 🧠 Projects & Labs
 
-## 🛡️ TryHackMe – SOC Level 1 (In Progress)
+## 🧪 TryHackMe Labs (SOC Level 1 Path — In Progress)
 
-Currently completing the **TryHackMe SOC Level 1** pathway, focused on blue team operations, detection engineering, and incident response fundamentals.
+🔗 TryHackMe profile: https://tryhackme.com/p/YOUR-USERNAME
 
-**Progress:** 47% complete  
-**Focus Areas:**  
-- Security Operations Center (SOC) workflows  
-- Alert triage & investigation  
-- Phishing detection & analysis  
-- Threat frameworks (Kill Chain, Pyramid of Pain)  
-- Windows & Linux fundamentals  
-- Vulnerability awareness (OWASP Top 10)
+Progress: ~47% complete  
+Focus: Blue team fundamentals, SOC operations, detection, and incident response
 
-### 📌 Earned Milestones
-- Defensive Toolsmith  
-- SOC Apprentice  
-- Phish Hunter  
-- First Alert Closed  
-- First Step into SOC  
-- Skilled Navigator  
-- Shield Apprentice  
-- Metasploitable  
-- OWASP Top 10  
-- Linux Fundamentals (cat linux.txt)
+### Completed Milestones & Skills
+- SOC Apprentice – Understanding SOC workflows and analyst responsibilities
+- Defensive Toolsmith – Using core blue team security tools
+- Phish Hunter – Analyzing phishing emails and malicious indicators
+- First Alert Closed – Investigating and closing security alerts
+- Cyber Kill Chain – Understanding phases of targeted cyber attacks
+- Unified Kill Chain – Mapping advanced attacker behavior
+- Linux Fundamentals – File permissions, processes, and system navigation
+- OWASP Top 10 – Web application security fundamentals
 
-> Hands-on labs include alert analysis, phishing investigations, attacker behavior mapping, and real-world SOC scenarios.
+### Skills Practiced
+- Log analysis and alert triage
+- Phishing detection and IOC identification
+- Incident investigation and escalation
+- Attacker lifecycle analysis
+- Linux command-line security tasks
+- SOC analyst workflows and documentation
 
 🔗 **TryHackMe profile:** https://tryhackme.com/p/rodney7hall
 
 ---
 
-### 🎓 Google Cybersecurity Certificate Projects
+## 🛡️ Google Cybersecurity Certificate – Hands-On Labs
 
-| Project | Focus | Link |
-|--------|-------|------|
-| 📝 **Security Assessment Report** | Real-world risk review | [View](./projects/google-security-assessment.md) |
-| 🔍 **Log Analysis Lab** | Identify threats from logs | [View](./projects/google-log-analysis.md) |
-| 🛡 **SIEM Investigation** | Using SIEM for incident triage | [View](./projects/google-incident-response.md) |
-| 📄 **Capstone Project** | Complete incident response report | [View](./projects/google-capstone.md) |
+Completed hands-on security labs focused on blue team fundamentals, detection, and incident response.
+
+**Key skills practiced:**
+- Log analysis and alert investigation
+- SIEM-based incident triage
+- Risk assessment and threat modeling
+- Linux security fundamentals
+- SQL queries for security analysis
+- Introductory Python for security automation
+
+**Representative labs & activities:**
+- Investigated suspicious login and network activity using structured logs
+- Performed risk assessments mapping assets, threats, and vulnerabilities
+- Used Linux commands to analyze files, permissions, and processes
+- Queried datasets using SQL to identify anomalous behavior
+- Completed simulated incident response workflows
 
 ---
 
