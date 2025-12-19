@@ -11,14 +11,34 @@ Hi, I’m **Rodney Hall** — a cybersecurity analyst in training with hands-on 
 
 ## 🧠 Projects & Labs
 
-### 🔐 TryHackMe Labs
+## 🛡️ TryHackMe – SOC Level 1 (In Progress)
 
-| Room | Description | Link |
-|------|-------------|------|
-| 🧩 **Junior Security Analyst Intro** | Core skills for junior SOC analysts | [View Report](./projects/thm-junior-security-analyst.md) |
-| 🔺 **Pyramid of Pain** | Understand attacker indicators & defenses | [View Report](./projects/thm-pyramid-of-pain.md) |
-| 🎯 **Cyber Kill Chain** | Phases of targeted cyber attacks | [View Report](./projects/thm-cyber-kill-chain.md) |
-| 🔗 **Unified Kill Chain** | Mapping advanced attacker behavior | [View Report](./projects/thm-unified-kill-chain.md) |
+Currently completing the **TryHackMe SOC Level 1** pathway, focused on blue team operations, detection engineering, and incident response fundamentals.
+
+**Progress:** 47% complete  
+**Focus Areas:**  
+- Security Operations Center (SOC) workflows  
+- Alert triage & investigation  
+- Phishing detection & analysis  
+- Threat frameworks (Kill Chain, Pyramid of Pain)  
+- Windows & Linux fundamentals  
+- Vulnerability awareness (OWASP Top 10)
+
+### 📌 Earned Milestones
+- Defensive Toolsmith  
+- SOC Apprentice  
+- Phish Hunter  
+- First Alert Closed  
+- First Step into SOC  
+- Skilled Navigator  
+- Shield Apprentice  
+- Metasploitable  
+- OWASP Top 10  
+- Linux Fundamentals (cat linux.txt)
+
+> Hands-on labs include alert analysis, phishing investigations, attacker behavior mapping, and real-world SOC scenarios.
+
+🔗 **TryHackMe profile:** https://tryhackme.com/p/rodney7hall
 
 ---
 
