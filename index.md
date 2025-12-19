@@ -61,26 +61,39 @@ Completed hands-on security labs focused on blue team fundamentals, detection, a
 
 ---
 
-## 📛 Badges
-
-![Security+ Studying](https://img.shields.io/badge/Studying-CompTIA%20Security%2B-blue)
-![Google Certified](https://img.shields.io/badge/Google-Cybersecurity%20Cert-success)
-![TryHackMe Labs](https://img.shields.io/badge/TryHackMe-4%20Labs%20Completed-brightgreen)
-
----
-
 ## 🧰 Skills & Tools
 
-**SIEM** | Wireshark | Linux CLI | NIST | MITRE ATT&CK | IAM | Cloud Security (AWS/Azure) | SOC1/2 | Bash Scripting
+## 🛠️ Technical Skills & Tools
+
+**Security Operations & Detection**
+- SIEM-based alert triage and investigation
+- Log analysis (authentication, network, application logs)
+- Phishing analysis and indicator-of-compromise (IOC) identification
+- MITRE ATT&CK framework (tactics, techniques, kill chain mapping)
+
+**Systems & Networking**
+- Linux command-line fundamentals (processes, permissions, file systems)
+- Basic networking and traffic analysis concepts
+
+**Cloud & Identity**
+- Azure IAM & RBAC (least privilege enforcement)
+- Cloud security fundamentals (Azure, AWS concepts)
+
+**Scripting & Querying**
+- SQL for security investigations
+- Introductory Python for automation and analysis
+- Bash scripting fundamentals
 
 ---
 
 ## 📄 Resume & Contact
 
-- 📄 [Download My Resume (PDF)](./resume/your-resume.pdf) *(replace link)*
-- 🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin) *(replace link)*
-- ✉️ your.email@example.com *(optional)*
+- 📄 [Download My Resume (PDF)](./resume/your-resume.pdf)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hallrodney/) 
+- ✉️ rodney7hall@gmail.com
+---
 
 ---
 
-> 🚧 More projects, AWS labs, and Security+ notes coming soon.
+📌 This portfolio is actively maintained and reflects hands-on work aligned with SOC Analyst and Cloud Security roles.  
+Additional Azure security labs, detection scenarios, and incident response projects are being added regularly.
