@@ -59,6 +59,19 @@ Completed hands-on security labs focused on blue team fundamentals, detection, a
 
 ---
 
+## Azure Cloud Security Labs
+Hands-on Azure security projects focused on identity, access control, and least privilege.
+
+- RBAC Least Privilege Enforcement
+- Storage Account Access Control (SAS tokens)
+- Key Vault Secrets Management
+- IAM permission validation
+
+📂 Azure Labs Repository:  
+https://github.com/rodney-hall/azure-cloud-security-labs
+
+---
+
 ## 🧰 Skills & Tools
 
 ## 🛠️ Technical Skills & Tools
