@@ -5,7 +5,7 @@ title: Cybersecurity Portfolio
 
 # 🛡️ Cybersecurity Portfolio
 
-Hi, I’m **[Your Name]** — a cybersecurity analyst in training with hands-on experience in threat detection, incident response, and cloud security. I’m currently completing my **MBA in Data Analytics**, studying for **CompTIA Security+**, and preparing for a future in cloud and blue team security roles.
+Hi, I’m **Rodney Hall** — a cybersecurity analyst in training with hands-on experience in threat detection, incident response, and cloud security. I’m currently completing my **MBA in Cybersecurity Management**, studying for **CompTIA Security+**, and preparing for a future in cloud and blue team security roles.
 
 ---
 
