@@ -13,7 +13,7 @@ Hi, I’m **Rodney Hall** — a cybersecurity analyst in training with hands-on 
 
 ## 🧪 TryHackMe Labs (SOC Level 1 Path — In Progress)
 
-🔗 TryHackMe profile: https://tryhackme.com/p/YOUR-USERNAME
+🔗 TryHackMe profile: https://tryhackme.com/p/rodney7hall
 
 Progress: ~47% complete  
 Focus: Blue team fundamentals, SOC operations, detection, and incident response
@@ -35,8 +35,6 @@ Focus: Blue team fundamentals, SOC operations, detection, and incident response
 - Attacker lifecycle analysis
 - Linux command-line security tasks
 - SOC analyst workflows and documentation
-
-🔗 **TryHackMe profile:** https://tryhackme.com/p/rodney7hall
 
 ---
 
