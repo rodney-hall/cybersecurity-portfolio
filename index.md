@@ -87,8 +87,8 @@ Completed hands-on security labs focused on blue team fundamentals, detection, a
 ## 📄 Resume & Contact
 
 - 📥 **Download Resume (PDF):**  
-file:///Users/rodneyhall/Downloads/Rodney_Hall_Resume-1.pdf
-- 🔗 **LinkedIn:**  
+[file:///Users/rodneyhall/Downloads/Rodney_Hall_Resume-1.pdf
+](https://github.com/rodney-hall/cybersecurity-portfolio/raw/main/Rodney_Hall_Resume.pdf)- 🔗 **LinkedIn:**  
   https://www.linkedin.com/in/rodney-hall
 
 - 📧 **Email:**  
