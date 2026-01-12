@@ -18,8 +18,6 @@ https://rodney-hall.github.io/cybersecurity-portfolio/
 - Azure cloud security projects
 - Resume & contact information
 
-📄 **Resume (PDF):**  
-https://github.com/rodney-hall/cybersecurity-portfolio/blob/main/RodneyHall_Resume.pdf
 
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/rodney-hall
