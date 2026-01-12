@@ -110,7 +110,7 @@ https://github.com/rodney-hall/azure-cloud-security-labs
 ## 📄 Resume & Contact
 
 - 📥 **Download Resume (PDF):**  
-  [Rodney Hall – Resume (PDF)](https://github.com/rodney-hall/cybersecurity-portfolio/raw/main/Rodney_Hall_Resume.pdf)
+[Rodney Hall – Resume (PDF)](https://github.com/rodney-hall/cybersecurity-portfolio/raw/main/Rodney_Hall_Resume.pdf)
 
 - 🔗 **LinkedIn:**  
   https://www.linkedin.com/in/rodney-hall
