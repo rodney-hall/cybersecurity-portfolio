@@ -5,7 +5,7 @@ title: Cybersecurity Portfolio
 
 # 🛡️ Cybersecurity Portfolio
 
-Hi, I’m **Rodney Hall** — a cybersecurity analyst in training with hands-on experience in threat detection, incident response, and cloud security. I’m currently completing my **MBA in Cybersecurity Management**, studying for **CompTIA Security+**, and preparing for a future in cloud and blue team security roles.
+Hi, I’m **Rodney Hall** — a cybersecurity analyst with hands-on experience in threat detection, incident response fundamentals, and cloud security. I hold **CompTIA Security+ certification** and am currently completing my **MBA in Cybersecurity Management**, with a focus on blue team and cloud security operations.
 
 ---
 
@@ -16,7 +16,7 @@ Hi, I’m **Rodney Hall** — a cybersecurity analyst in training with hands-on 
 🔗 TryHackMe profile: https://tryhackme.com/p/rodney7hall
 
 Progress: ~47% complete  
-Focus: Blue team fundamentals, SOC operations, detection, and incident response
+Focus: SOC operations, blue team detection, and incident response workflows
 
 ### Completed Milestones & Skills
 - SOC Apprentice – Understanding SOC workflows and analyst responsibilities
@@ -59,13 +59,14 @@ Completed hands-on security labs focused on blue team fundamentals, detection, a
 
 ---
 
-## Azure Cloud Security Labs
+## ☁️ Azure Cloud Security Labs
+
 Hands-on Azure security projects focused on identity, access control, and least privilege.
 
-- RBAC Least Privilege Enforcement
-- Storage Account Access Control (SAS tokens)
-- Key Vault Secrets Management
-- IAM permission validation
+- RBAC least privilege enforcement
+- Storage account access control (SAS tokens)
+- Azure Key Vault secrets management
+- IAM permission validation and access review
 
 📂 Azure Labs Repository:  
 https://github.com/rodney-hall/azure-cloud-security-labs
@@ -74,7 +75,7 @@ https://github.com/rodney-hall/azure-cloud-security-labs
 
 ## 🧰 Skills & Tools
 
-## 🛠️ Technical Skills & Tools
+### 🛠️ Technical Skills
 
 **Security Operations & Detection**
 - SIEM-based alert triage and investigation
@@ -84,16 +85,25 @@ https://github.com/rodney-hall/azure-cloud-security-labs
 
 **Systems & Networking**
 - Linux command-line fundamentals (processes, permissions, file systems)
-- Basic networking and traffic analysis concepts
+- Foundational networking and traffic analysis concepts
 
 **Cloud & Identity**
 - Azure IAM & RBAC (least privilege enforcement)
-- Cloud security fundamentals (Azure, AWS concepts)
+- Cloud security fundamentals (Azure and AWS concepts)
 
 **Scripting & Querying**
 - SQL for security investigations
-- Introductory Python for automation and analysis
+- Introductory Python for security automation
 - Bash scripting fundamentals
+
+---
+
+## 🎓 Certifications
+
+- CompTIA Security+
+- AWS Certified Cloud Practitioner
+- Microsoft AZ-500: Azure Security Engineer Associate
+- Google Cybersecurity Certificate
 
 ---
 
@@ -103,12 +113,11 @@ https://github.com/rodney-hall/azure-cloud-security-labs
   [Rodney Hall – Resume (PDF)](https://github.com/rodney-hall/cybersecurity-portfolio/raw/main/Rodney_Hall_Resume.pdf)
 
 - 🔗 **LinkedIn:**  
-  [linkedin.com/in/rodney-hall](https://www.linkedin.com/in/rodney-hall)
+  https://www.linkedin.com/in/rodney-hall
 
 - 📧 **Email:**  
   rodney7hall@gmail.com
 
----
 
 ---
 
