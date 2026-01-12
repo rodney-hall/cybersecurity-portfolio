@@ -19,7 +19,7 @@ https://rodney-hall.github.io/cybersecurity-portfolio/
 - Resume & contact information
 
 📄 **Resume (PDF):**  
-https://github.com/rodney-hall/cybersecurity-portfolio/raw/main/Rodney_Hall_Resume.pdf
+https://github.com/rodney-hall/cybersecurity-portfolio/blob/main/RodneyHall_Resume.pdf
 
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/rodney-hall
