@@ -102,7 +102,7 @@ https://github.com/rodney-hall/azure-cloud-security-labs
 
 - CompTIA Security+
 - AWS Certified Cloud Practitioner
-- Microsoft AZ-500: Azure Security Engineer Associate
+- Microsoft AZ-900: Azure Security Engineer Associate
 - Google Cybersecurity Certificate
 
 ---
