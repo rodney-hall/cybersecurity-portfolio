@@ -3,19 +3,19 @@
 Screenshots (click to view):
 
 1. Domain Controller role installed (AD DS + DNS):  
-   ![AD DS + DNS](screenshots/01-domain-controller-ad-dns.png)
+   [AD DS + DNS](./04_ServerManager_ADDS_LocalServer.png)
 
 2. Multi-region OU layout (USA / Europe / Asia):  
-   ![OU Structure](screenshots/02-ou-structure-multi-region.png)
+   [OU Structure](./01_ADUC_OU_Structure.png)
 
 3. Users + security groups organized by department:  
-   ![Users + Groups](screenshots/03-users-ou-and-groups.png)
+   [Users + Groups](./02_ADUC_Users_and_Groups.png)
 
 4. Computer objects created with naming convention:  
-   ![Computer Objects](screenshots/04-computers-objects.png)
+   [Computer Objects](./03_ADUC_Computer_Objects.png)
 
-5. Server objects created with naming convention:  
-   ![Server Objects](screenshots/05-servers-objects.png)
+5. DNS installed / running on DC (Server Manager):  
+   [DNS](./05_ServerManager_DNS.png)
 
 6. Hostname rename verification (optional):  
-   ![Rename Verification](screenshots/06-rename-hostname-confirmation.png)
+   [Rename Verification](./06_PowerShell_hostname_LAB-DC01.png)
