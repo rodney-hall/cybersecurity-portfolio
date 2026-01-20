@@ -40,7 +40,7 @@ Hands-on Azure security work focused on identity, access control, and least priv
 - Key Vault fundamentals (secrets management)
 - IAM permission review and access validation
 
-➡️ Azure labs repo: https://github.com/rodney-hall/azure-cloud-security-labs
+➡️ **Repo:** [Azure Cloud Security Labs](https://github.com/rodney-hall/azure-cloud-security-labs)
 
 ---
 
