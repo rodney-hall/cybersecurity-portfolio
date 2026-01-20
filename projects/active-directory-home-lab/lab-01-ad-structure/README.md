@@ -2,20 +2,20 @@
 
 Screenshots (click to view):
 
-1. Domain OU structure (USA / Europe / Asia)  
-   [OU Structure](https://github.com/rodney-hall/cybersecurity-portfolio/blob/main/projects/active-directory-home-lab/lab-01-ad-structure/01_ADUC_OU_Structure.png)
+1. Domain Controller role installed (AD DS + DNS):
+   - [AD DS + DNS](04_ServerManager_ADDS_LAB-DC01.png)
 
-2. Users + security groups organized by department  
-   [Users + Groups](https://github.com/rodney-hall/cybersecurity-portfolio/blob/main/projects/active-directory-home-lab/lab-01-ad-structure/02_ADUC_Users_and_Groups.png)
+2. Multi-region OU layout (USA / Europe / Asia):
+   - [OU Structure](01_ADUC_OU_Structure.png)
 
-3. Computer objects created with naming convention  
-   [Computer Objects](https://github.com/rodney-hall/cybersecurity-portfolio/blob/main/projects/active-directory-home-lab/lab-01-ad-structure/03_ADUC_Computer_Objects.png)
+3. Users + security groups organized by department:
+   - [Users + Groups](02_ADUC_Users_and_Group.png)
 
-4. AD DS role installed / server manager view  
-   [AD DS Installed](https://github.com/rodney-hall/cybersecurity-portfolio/blob/main/projects/active-directory-home-lab/lab-01-ad-structure/04_ServerManager_ADDS.png)
+4. Computer objects created with naming convention:
+   - [Computer Objects](03_ADUC_Computer_Objects.png)
 
-5. DNS role / server manager view  
-   [DNS Installed](https://github.com/rodney-hall/cybersecurity-portfolio/blob/main/projects/active-directory-home-lab/lab-01-ad-structure/05_ServerManager_DNS.png)
+5. DNS role view / server manager confirmation:
+   - [DNS Installed](05_ServerManager_DNS.png)
 
-6. Hostname rename verification  
-   [Rename Verification](https://github.com/rodney-hall/cybersecurity-portfolio/blob/main/projects/active-directory-home-lab/lab-01-ad-structure/06_PowerShell_hostname.png)
+6. Hostname rename verification (optional):
+   - [Rename Verification](06_PowerShell_hostname_LAB-DC01.png)
