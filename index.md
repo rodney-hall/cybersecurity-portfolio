@@ -65,6 +65,8 @@ Hands-on Azure security work focused on identity, access control, and least priv
 - SQL for investigations
 - Python fundamentals for automation
 
+- - **TryHackMe:** [tryhackme.com/p/rodney7hall](https://tryhackme.com/p/rodney7hall)
+
 ---
 
 ## 🎓 Certifications
@@ -76,9 +78,9 @@ Hands-on Azure security work focused on identity, access control, and least priv
 ---
 
 ## 📄 Resume & Contact
-- **Resume (PDF):** https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/RodneyHall_Resume.pdf  
-- **LinkedIn:** [https://www.linkedin.com/in/rodney-hall ](https://www.linkedin.com/in/hallrodney/) 
-- **Email:** rodney7hall@gmail.com
+- **Resume (PDF):** [Download here](https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/RodneyHall_Resume.pdf)
+- **LinkedIn:** [linkedin.com/in/rodney-hall](https://www.linkedin.com/in/rodney-hall)
+- **Email:** [rodney7hall@gmail.com](mailto:rodney7hall@gmail.com)
 
 ---
 
