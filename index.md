@@ -18,7 +18,7 @@ Hands-on Windows domain lab focused on identity, structure, and access managemen
 - Users, groups, computer objects, and server objects with realistic naming
 - Foundation for next steps: GPOs, domain joins, permissions, and auditing
 
-➡️ **Project:** [Active Directory Home Lab – AD Structure](projects/active-directory-home-lab/lab-01-ad-structure/)
+**Project:** [Active Directory Home Lab – AD Structure](projects/active-directory-home-lab/lab-01-ad-structure/)
 
 ---
 
@@ -35,12 +35,14 @@ Hands-on labs focused on blue team fundamentals, detection, and incident respons
 
 ### Azure Cloud Security Labs
 Hands-on Azure security work focused on identity, access control, and least privilege.
-- RBAC / least privilege enforcement
-- Storage access control concepts (SAS)
-- Key Vault fundamentals (secrets management)
-- IAM permission review and access validation
 
-➡️ **Repo:** [Azure Cloud Security Labs](https://github.com/rodney-hall/azure-cloud-security-labs)
+- RBAC / least privilege enforcement  
+- Storage access control concepts (SAS)  
+- Key Vault fundamentals (secrets management)  
+- IAM permission review and access validation  
+
+**Project** [Azure Cloud Security Labs](https://github.com/rodney-hall/azure-cloud-security-labs)
+
 
 ---
 
