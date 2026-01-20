@@ -64,5 +64,5 @@ Built and organized a Windows domain lab to practice enterprise identity and str
 
 ## Resume & Contact
 - **Resume (PDF):** `RodneyHall_Resume.pdf`
-- **LinkedIn:** https://www.linkedin.com/in/rodney-hall
+- **LinkedIn:** [https://www.linkedin.com/in/rodney-hall](https://www.linkedin.com/in/hallrodney/)
 - **Email:** rodney7hall@gmail.com
