@@ -48,7 +48,7 @@ Built and organized a Windows domain lab to practice enterprise identity and str
 
 ➡️ Repo: https://github.com/rodney-hall/azure-cloud-security-labs
 
-### Training (Optional)
+### Training
 - TryHackMe profile: https://tryhackme.com/p/rodney7hall
 
 ---
