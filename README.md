@@ -26,7 +26,7 @@ Built and organized a Windows domain lab to practice enterprise identity and str
 - Added department OUs (**IT, HR, Accounting, Sales, Management**)
 - Created users, security groups, and computer/server objects using realistic naming
 
-➡️ **Lab 1 Write-Up:** `projects/active-directory-home-lab/lab-01-ad-structure/`
+📄 Lab 1 Write-Up: [AD OU Structure + Objects](projects/active-directory-home-lab/lab-01-ad-structure/README.md)
 
 ---
 
