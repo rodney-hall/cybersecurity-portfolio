@@ -18,7 +18,7 @@ Hands-on Windows domain lab focused on identity, structure, and access managemen
 - Users, groups, computer objects, and server objects with realistic naming
 - Foundation for next steps: GPOs, domain joins, permissions, and auditing
 
-➡️ Project: `projects/active-directory-home-lab/lab-01-ad-structure/`
+➡️ **Project:** [Active Directory Home Lab – AD Structure](projects/active-directory-home-lab/lab-01-ad-structure/)
 
 ---
 
