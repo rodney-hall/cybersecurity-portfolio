@@ -46,10 +46,11 @@ Built and organized a Windows domain lab to practice enterprise identity and str
 - Key Vault fundamentals (secrets management)
 - IAM permission review and access validation
 
-➡️ Repo: https://github.com/rodney-hall/azure-cloud-security-labs
+➡️ **Repo:** [Azure Cloud Security Labs](https://github.com/rodney-hall/azure-cloud-security-labs)
 
 ### Training
-- TryHackMe profile: https://tryhackme.com/p/rodney7hall
+- TryHackMe profile: - [tryhackme.com/p/rodney7hall](https://tryhackme.com/p/rodney7hall)
+
 
 ---
 
@@ -61,8 +62,8 @@ Built and organized a Windows domain lab to practice enterprise identity and str
 - Google Cybersecurity Certificate
 
 ---
+## 📄 Resume & Contact
+- **Resume (PDF):** [Download here](https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/RodneyHall_Resume.pdf)
+- **LinkedIn:** [linkedin.com/in/rodney-hall](https://www.linkedin.com/in/rodney-hall)
+- **Email:** [rodney7hall@gmail.com](mailto:rodney7hall@gmail.com)
 
-## Resume & Contact
-- **Resume (PDF):** `RodneyHall_Resume.pdf`
-- **LinkedIn:** [https://www.linkedin.com/in/rodney-hall](https://www.linkedin.com/in/hallrodney/)
-- **Email:** rodney7hall@gmail.com
