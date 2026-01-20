@@ -1,14 +1,21 @@
-# Active Directory Home Lab — Lab 01 (AD Structure)
-
-**Goal:** Build a clean multi-region AD OU structure and populate it with realistic users, groups, and computer/server objects.
-
-## What I built
-- Promoted Windows Server 2022 to Domain Controller (AD DS + DNS)
-- Created OUs for **USA / Europe / Asia**
-- Added **Users / Computers / Servers** containers per region
-- Created department OUs (IT, HR, Accounting, Sales, Management)
-- Added sample users + security groups
-- Created computer + server objects with realistic naming conventions
-
 ## Proof
-Screenshots are in: `screenshots/`
+
+Screenshots (click to view):
+
+1. Domain Controller role installed (AD DS + DNS):  
+   ![AD DS + DNS](screenshots/01-domain-controller-ad-dns.png)
+
+2. Multi-region OU layout (USA / Europe / Asia):  
+   ![OU Structure](screenshots/02-ou-structure-multi-region.png)
+
+3. Users + security groups organized by department:  
+   ![Users + Groups](screenshots/03-users-ou-and-groups.png)
+
+4. Computer objects created with naming convention:  
+   ![Computer Objects](screenshots/04-computers-objects.png)
+
+5. Server objects created with naming convention:  
+   ![Server Objects](screenshots/05-servers-objects.png)
+
+6. Hostname rename verification (optional):  
+   ![Rename Verification](screenshots/06-rename-hostname-confirmation.png)
