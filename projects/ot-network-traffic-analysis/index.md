@@ -43,7 +43,13 @@ Hands-on analysis of Operational Technology (OT) and Industrial Control System (
 **APDU / NPDU breakdown**  
 ![BACnet Breakdown](./bacnet-apdu-npdu-breakdown.png)
 
----
+### Modbus/TCP Analysis
 
-## Status
-BACnet analysis complete. Modbus/TCP analysis in progress using the same workflow.
+**Filtered Modbus traffic**  
+![Modbus Filter Applied](./modbus-filter-applied.png)
+
+**Function code inspection**  
+![Modbus Function Code](./modbus-function-code.png)
+
+**Request / response correlation**  
+![Modbus Request Response](./modbus-request-response.png)
