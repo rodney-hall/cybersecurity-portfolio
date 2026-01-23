@@ -30,12 +30,13 @@ Foundational OT security lab focused on how enterprise IT and operational techno
 Hands-on analysis of OT/ICS network traffic using Wireshark to identify device discovery, control messages, and protocol behavior in industrial control systems.
 - Analyzed BACnet traffic (device discovery + NPDU/APDU inspection)
 - Analyzed Modbus/TCP traffic (request/response patterns and function codes)
-- Applied protocol-specific display filters and documented findings with screenshots
+- Applied protocol-specific display filters and documented findings with evidence-backed screenshots
+- Correlated Modbus request/response pairs to understand command execution and device behavior
 
 **Project:** [OT Network Traffic Analysis (Wireshark)](projects/ot-network-traffic-analysis/)
 
 ### Active Directory Home Lab (Windows Server 2022)
-Built and organized a Windows domain lab to practice enterprise identity and structure.
+Built and organized a Windows domain lab to practice enterprise identity, access control, and structure.
 - Promoted Windows Server 2022 to **Domain Controller** (AD DS + DNS)
 - Created multi-region OU structure (**USA / Europe / Asia**)
 - Built **Users / Computers / Servers** containers per region
