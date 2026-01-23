@@ -1,24 +1,22 @@
----
-layout: default
-title: Cybersecurity Portfolio
----
+# Cybersecurity Portfolio — Rodney Hall
 
-# Cybersecurity Portfolio
+This repository powers my public cybersecurity portfolio website.
 
-Hi, I’m **Rodney Hall** — a Security+ certified cybersecurity professional focused on **SOC operations** and **Windows / cloud security fundamentals**. I’m currently completing an **MBA in Cybersecurity Management** and building hands-on projects that show real, job-relevant skills for **SOC Analyst I** and **Junior Systems Administrator** roles.
+🔗 **Live Portfolio:**  
+https://rodney-hall.github.io/cybersecurity-portfolio/
 
 ---
 
-## Featured Projects
+## Focus Areas
+- SOC Analyst I / Blue Team fundamentals
+- Incident detection & response
+- Log analysis and alert triage
+- Windows + Active Directory fundamentals
+- Cloud security fundamentals (Azure/AWS)
 
-### Active Directory Home Lab (Windows Server 2022)
-Hands-on Windows domain lab focused on identity, structure, and access management.
-- AD DS + DNS domain controller configuration
-- Multi-region OU design (USA / Europe / Asia)
-- Users, groups, computer objects, and server objects with realistic naming
-- Foundation for next steps: GPOs, domain joins, permissions, and auditing
+---
 
-**Project:** [Active Directory Home Lab – AD Structure](projects/active-directory-home-lab/lab-01-ad-structure/)
+## Featured Projects (Hands-On)
 
 ### OT/ICS Foundations Mini-Lab (Purdue Model + IT/OT Segmentation)
 Foundational OT security lab focused on how enterprise IT and operational technology (OT) environments are separated to protect uptime and safety.
@@ -32,59 +30,44 @@ Foundational OT security lab focused on how enterprise IT and operational techno
 Hands-on analysis of OT/ICS network traffic using Wireshark to identify device discovery, control messages, and protocol behavior in industrial control systems.
 - Analyzed BACnet traffic (device discovery + NPDU/APDU inspection)
 - Analyzed Modbus/TCP traffic (request/response patterns and function codes)
-- Applied protocol-specific display filters and documented findings with screenshots
+- Applied protocol-specific display filters and documented findings with evidence-backed screenshots
+- Correlated Modbus request/response pairs to understand command execution and device behavior
 
 **Project:** [OT Network Traffic Analysis (Wireshark)](projects/ot-network-traffic-analysis/)
 
+### Active Directory Home Lab (Windows Server 2022)
+Built and organized a Windows domain lab to practice enterprise identity, access control, and structure.
+- Promoted Windows Server 2022 to **Domain Controller** (AD DS + DNS)
+- Created multi-region OU structure (**USA / Europe / Asia**)
+- Built **Users / Computers / Servers** containers per region
+- Added department OUs (**IT, HR, Accounting, Sales, Management**)
+- Created users, security groups, and computer/server objects using realistic naming
+
+ Lab 1 Write-Up: [AD OU Structure + Objects](projects/active-directory-home-lab/lab-01-ad-structure/README.md)
 
 ---
 
-## Security Labs (Hands-On)
+## Labs & Practice
 
 ### Google Cybersecurity Certificate — Hands-On Labs
-Hands-on labs focused on blue team fundamentals, detection, and incident response.
 - Log analysis and alert investigation
 - SIEM-style incident triage
 - Risk assessment and threat modeling
 - Linux security fundamentals
-- SQL queries for basic security analysis
-- Intro Python for security automation
+- SQL queries for basic investigations
+- Intro Python for automation
 
 ### Azure Cloud Security Labs
-Hands-on Azure security work focused on identity, access control, and least privilege.
+- RBAC / least privilege enforcement
+- Storage access control concepts (SAS)
+- Key Vault fundamentals (secrets management)
+- IAM permission review and access validation
 
-- RBAC / least privilege enforcement  
-- Storage access control concepts (SAS)  
-- Key Vault fundamentals (secrets management)  
-- IAM permission review and access validation  
+ **Repo:** [Azure Cloud Security Labs](https://github.com/rodney-hall/azure-cloud-security-labs)
 
-**Project** [Azure Cloud Security Labs](https://github.com/rodney-hall/azure-cloud-security-labs)
+### Training
+- TryHackMe profile: - [tryhackme.com/p/rodney7hall](https://tryhackme.com/p/rodney7hall)
 
-
----
-
-## Skills & Tools
-
-**Security Operations**
-- Alert triage and basic incident response workflows  
-- Log analysis (authentication, network, application)  
-- Phishing / IOC identification fundamentals  
-- MITRE ATT&CK familiarity (tactics/techniques mapping)
-
-**Systems (Windows/Linux)**
-- Active Directory fundamentals (OUs, users, groups, computer objects)
-- Windows Server basics (roles/features, domain services)
-- Linux command line fundamentals (processes, permissions, file systems)
-
-**Cloud / Identity**
-- Azure IAM & RBAC fundamentals
-- Cloud security fundamentals (AWS + Azure concepts)
-
-**Scripting / Querying**
-- SQL for investigations
-- Python fundamentals for automation
-
-- - **TryHackMe:** [tryhackme.com/p/rodney7hall](https://tryhackme.com/p/rodney7hall)
 
 ---
 
@@ -92,14 +75,15 @@ Hands-on Azure security work focused on identity, access control, and least priv
 - CompTIA Security+
 - AWS Certified Cloud Practitioner
 - Microsoft AZ-900
+- Microsoft AZ-500
 - Google Cybersecurity Certificate
 
 ---
-
 ## Resume & Contact
 - **Resume (PDF):** [Download here](https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/RodneyHall_Resume.pdf)
 - **LinkedIn:** [linkedin.com/in/rodney-hall](https://www.linkedin.com/in/rodney-hall)
 - **Email:** [rodney7hall@gmail.com](mailto:rodney7hall@gmail.com)
+
 
 ---
 
