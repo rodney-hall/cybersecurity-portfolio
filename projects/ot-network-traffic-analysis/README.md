@@ -36,6 +36,17 @@ This project demonstrates hands-on analysis of Operational Technology (OT) netwo
 **APDU / NPDU breakdown**  
 ![BACnet Breakdown](./bacnet-apdu-npdu-breakdown.png)
 
+### Modbus/TCP Analysis
+
+**Filtered Modbus traffic**
+![Modbus Filter Applied](./modbus-filter-applied.png)
+
+**Function code inspection**
+![Modbus Function Code](./modbus-function-code.png)
+
+**Request / response correlation**
+![Modbus Request Response](./modbus-request-response.png)
+
 ## Status
 BACnet analysis complete.  
 Modbus/TCP analysis will be added using the same workflow.
