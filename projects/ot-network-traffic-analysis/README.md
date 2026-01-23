@@ -38,14 +38,11 @@ This project demonstrates hands-on analysis of Operational Technology (OT) netwo
 
 ### Modbus/TCP Analysis
 
-**Filtered Modbus traffic**
+**Filtered Modbus traffic**  
 ![Modbus Filter Applied](./modbus-filter-applied.png)
 
-**Function code inspection**
+**Function code inspection**  
 ![Modbus Function Code](./modbus-function-code.png)
 
-**Request / response correlation**
+**Request / response correlation**  
 ![Modbus Request Response](./modbus-request-response.png)
-
-## Status
-BACnet and Modbus/TCP analysis complete.
