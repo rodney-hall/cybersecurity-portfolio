@@ -17,5 +17,11 @@ This mini-lab demonstrates foundational understanding of OT/ICS network segmenta
 ### Purdue Model (Levels 0–5)
 ![Purdue Model](diagram-purdue-levels.png)
 
+## 📋 Supporting Artifacts
+
+- 🧭 **Purdue Model Diagram:** `diagram-purdue-levels.png`
+- 🔀 **IT / OT DMZ Diagram:** `diagram-it-ot-dmz.png`
+- 🧾 **OT Incident Evidence Checklist:** [View checklist](evidence-checklist.md)
+
 ## Status
-Foundations / In Progress – built as a reference and learning artifact.
+Completed foundational OT/ICS security lab focused on IT/OT segmentation, Purdue Model levels, and OT incident documentation.
