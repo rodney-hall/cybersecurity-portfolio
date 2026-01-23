@@ -26,6 +26,11 @@ Foundational OT security lab focused on how enterprise IT and operational techno
 
 **Project:** [OT/ICS Foundations Mini-Lab](projects/ot-ics-foundations/)
 
+## OT Network Traffic Analysis (Wireshark)  
+Hands-on analysis of OT network traffic to identify device discovery, control messages, and protocol behavior in industrial control systems.
+
+##Project: OT Network Traffic Analysis (Wireshark)
+
 ### Active Directory Home Lab (Windows Server 2022)
 Built and organized a Windows domain lab to practice enterprise identity and structure.
 - Promoted Windows Server 2022 to **Domain Controller** (AD DS + DNS)
