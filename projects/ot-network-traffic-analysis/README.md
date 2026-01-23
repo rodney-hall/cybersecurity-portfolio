@@ -48,5 +48,4 @@ This project demonstrates hands-on analysis of Operational Technology (OT) netwo
 ![Modbus Request Response](./modbus-request-response.png)
 
 ## Status
-BACnet analysis complete.  
-Modbus/TCP analysis will be added using the same workflow.
+BACnet and Modbus/TCP analysis complete.
