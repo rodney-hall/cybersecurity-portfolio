@@ -10,13 +10,6 @@ This mini-lab demonstrates foundational understanding of OT/ICS network segmenta
 - Purdue Model Levels 0–5
 - Segmentation to reduce lateral movement and operational impact
 
-## Diagrams
-### Simple IT ↔ OT Segmentation with OT DMZ
-![IT/OT DMZ](diagram-it-ot-dmz.png)
-
-### Purdue Model (Levels 0–5)
-![Purdue Model](diagram-purdue-levels.png)
-
 ## 📋 Supporting Artifacts
 
 - 🧭 **Purdue Model Diagram:** `diagram-purdue-levels.png`
