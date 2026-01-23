@@ -81,6 +81,6 @@ Built and organized a Windows domain lab to practice enterprise identity, access
 ---
 ## Resume & Contact
 - **Resume (PDF):** [Download here](https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/RodneyHall_Resume.pdf)
-- **LinkedIn:** [linkedin.com/in/rodney-hall](https://www.linkedin.com/in/rodney-hall)
+- **LinkedIn:** [linkedin.com/in/rodney-hall](https://www.linkedin.com/in/rodneyhall)
 - **Email:** [rodney7hall@gmail.com](mailto:rodney7hall@gmail.com)
 
