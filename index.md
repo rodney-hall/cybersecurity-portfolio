@@ -28,10 +28,13 @@ Foundational OT security lab focused on how enterprise IT and operational techno
 
 **Project:** [OT/ICS Foundations Mini-Lab](projects/ot-ics-foundations/)
 
-## OT Network Traffic Analysis (Wireshark)  
-Hands-on analysis of OT network traffic to identify device discovery, control messages, and protocol behavior in industrial control systems.
+### OT Network Traffic Analysis (Wireshark)
+Hands-on analysis of OT/ICS network traffic using Wireshark to identify device discovery, control messages, and protocol behavior in industrial control systems.
+- Analyzed BACnet traffic (device discovery + NPDU/APDU inspection)
+- Analyzed Modbus/TCP traffic (request/response patterns and function codes)
+- Applied protocol-specific display filters and documented findings with screenshots
 
-**Project: OT Network Traffic Analysis (Wireshark)
+**Project:** [OT Network Traffic Analysis (Wireshark)](projects/ot-network-traffic-analysis/)
 
 ---
 
