@@ -1,5 +1,10 @@
-# OT/ICS Foundations Mini-Lab
-**Purdue Model + IT/OT Segmentation**
+## OT / ICS Security Labs
+
+### 🔹 OT Network Traffic Analysis (Wireshark)
+Analyzed OT network traffic using Wireshark to identify device discovery, control messages, and unencrypted communications in industrial protocols.
+
+➡️ [View Lab Evidence](./ot-network-traffic-analysis/README.md)
+
 
 ## Overview
 This mini-lab demonstrates foundational understanding of OT/ICS network segmentation using the Purdue Model and an OT DMZ. The focus is on protecting operational availability and safety by limiting direct IT-to-OT access.
