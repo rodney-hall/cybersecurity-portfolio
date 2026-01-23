@@ -3,15 +3,15 @@ layout: default
 title: Cybersecurity Portfolio
 ---
 
-# 🛡️ Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
 Hi, I’m **Rodney Hall** — a Security+ certified cybersecurity professional focused on **SOC operations** and **Windows / cloud security fundamentals**. I’m currently completing an **MBA in Cybersecurity Management** and building hands-on projects that show real, job-relevant skills for **SOC Analyst I** and **Junior Systems Administrator** roles.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### ✅ Active Directory Home Lab (Windows Server 2022)
+### Active Directory Home Lab (Windows Server 2022)
 Hands-on Windows domain lab focused on identity, structure, and access management.
 - AD DS + DNS domain controller configuration
 - Multi-region OU design (USA / Europe / Asia)
@@ -20,7 +20,7 @@ Hands-on Windows domain lab focused on identity, structure, and access managemen
 
 **Project:** [Active Directory Home Lab – AD Structure](projects/active-directory-home-lab/lab-01-ad-structure/)
 
-### ✅ OT/ICS Foundations Mini-Lab (Purdue Model + IT/OT Segmentation)
+### OT/ICS Foundations Mini-Lab (Purdue Model + IT/OT Segmentation)
 Foundational OT security lab focused on how enterprise IT and operational technology (OT) environments are separated to protect uptime and safety.
 - Simple IT ↔ OT segmentation diagram with an OT DMZ
 - Purdue Model overview (Levels 0–5)
@@ -28,9 +28,14 @@ Foundational OT security lab focused on how enterprise IT and operational techno
 
 **Project:** [OT/ICS Foundations Mini-Lab](projects/ot-ics-foundations/)
 
+## OT Network Traffic Analysis (Wireshark)  
+Hands-on analysis of OT network traffic to identify device discovery, control messages, and protocol behavior in industrial control systems.
+
+**Project: OT Network Traffic Analysis (Wireshark)
+
 ---
 
-## 🔎 Security Labs (Hands-On)
+## Security Labs (Hands-On)
 
 ### Google Cybersecurity Certificate — Hands-On Labs
 Hands-on labs focused on blue team fundamentals, detection, and incident response.
@@ -54,7 +59,7 @@ Hands-on Azure security work focused on identity, access control, and least priv
 
 ---
 
-## 🧰 Skills & Tools
+## Skills & Tools
 
 **Security Operations**
 - Alert triage and basic incident response workflows  
@@ -79,7 +84,7 @@ Hands-on Azure security work focused on identity, access control, and least priv
 
 ---
 
-## 🎓 Certifications
+## Certifications
 - CompTIA Security+
 - AWS Certified Cloud Practitioner
 - Microsoft AZ-900
@@ -87,11 +92,11 @@ Hands-on Azure security work focused on identity, access control, and least priv
 
 ---
 
-## 📄 Resume & Contact
+## Resume & Contact
 - **Resume (PDF):** [Download here](https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/RodneyHall_Resume.pdf)
 - **LinkedIn:** [linkedin.com/in/rodney-hall](https://www.linkedin.com/in/rodney-hall)
 - **Email:** [rodney7hall@gmail.com](mailto:rodney7hall@gmail.com)
 
 ---
 
-📍 This portfolio is actively maintained and updated with new projects and labs.
+This portfolio is actively maintained and updated with new projects and labs.
