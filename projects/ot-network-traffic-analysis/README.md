@@ -27,14 +27,14 @@ This project demonstrates hands-on analysis of Operational Technology (OT) netwo
 
 ### BACnet Analysis
 
-- **Filtered BACnet traffic:**  
-  [BACnet Filter](./bacnet-filter-applied.png)
+**Filtered BACnet traffic**  
+![BACnet Filter](./bacnet-filter-applied.png)
 
-- **NPDU / APDU expansion:**  
-  [BACnet NPDU / APDU](./bacnet-npdu-apdu-expanded.png)
+**NPDU / APDU expansion**  
+![BACnet NPDU APDU](./bacnet-npdu-apdu-expanded.png)
 
-- **APDU / NPDU breakdown:**  
-  [BACnet Breakdown](./bacnet-apdu-npdu-breakdown.png)
+**APDU / NPDU breakdown**  
+![BACnet Breakdown](./bacnet-apdu-npdu-breakdown.png)
 
 ## Status
 BACnet analysis complete.  
