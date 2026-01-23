@@ -3,7 +3,7 @@
 This repository powers my public cybersecurity portfolio website.
 
 🔗 **Live Portfolio:**  
-https://rodney-hall.github.io/cybersecurity-portfolio/
+https://github.com/rodney-hall
 
 ---
 
