@@ -36,6 +36,7 @@ Hands-on analysis of OT/ICS network traffic using Wireshark to identify device d
 
 **Project:** [OT Network Traffic Analysis (Wireshark)](projects/ot-network-traffic-analysis/)
 
+
 ---
 
 ## Security Labs (Hands-On)
