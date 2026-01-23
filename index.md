@@ -69,7 +69,10 @@ Hands-on Azure security labs focused on identity, access control, and least priv
 - Least privilege validation and access denial testing
 - Cloud security fundamentals and audit-ready evidence
 
-**Repo:** [Azure Cloud Security Labs](https://github.com/rodney-hall/azure-cloud-security-labs)
+Hands-on Azure cloud security labs focused on identity, access control, and least-privilege enforcement.
+
+**Project:** [Azure Cloud Security Labs](projects/azure-cloud-security-labs/)
+
 
 ### Training
 - TryHackMe profile: - [tryhackme.com/p/rodney7hall](https://tryhackme.com/p/rodney7hall)
