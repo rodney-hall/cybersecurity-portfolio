@@ -42,6 +42,20 @@ BACnet broadcast traffic was analyzed to identify excessive or unexpected device
 - Device enumeration behavior
 - Lack of access control at the protocol level
 
+## Evidence
+
+### BACnet — Suspicious Write / Control Behavior
+![BACnet Suspicious Write](./bacnet-device-discovery.png)
+
+### BACnet — Device Discovery / Reconnaissance
+![BACnet Reconnaissance](./bacnet-reconnaissance.png)
+
+### Modbus — Suspicious Control Command
+![Modbus Suspicious Command](./modbus-suspicious-command.png)
+
+### Modbus — Request / Response Correlation
+![Modbus Request Response](./modbus-request-response.png)
+
 ---
 
 ## Incident Analysis Summary
