@@ -35,6 +35,14 @@ Hands-on analysis of OT/ICS network traffic using Wireshark to identify device d
 
 **Project:** [OT Network Traffic Analysis (Wireshark)](projects/ot-network-traffic-analysis/)
 
+### OT Network Threat Detection & Incident Analysis
+Simulated detection of suspicious activity in OT network traffic using an incident-analysis mindset.
+- Identified risky Modbus control behavior
+- Analyzed BACnet discovery traffic for reconnaissance indicators
+- Documented findings and recommended mitigations for OT environments
+
+**Project:** [OT Network Threat Detection & Incident Analysis](projects/ot-network-threat-detection/)
+
 ### Active Directory Home Lab (Windows Server 2022)
 Built and organized a Windows domain lab to practice enterprise identity, access control, and structure.
 - Promoted Windows Server 2022 to **Domain Controller** (AD DS + DNS)
