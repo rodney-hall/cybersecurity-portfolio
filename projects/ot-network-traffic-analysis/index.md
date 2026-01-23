@@ -31,7 +31,17 @@ Hands-on analysis of Operational Technology (OT) and Industrial Control System (
 ---
 
 ## Evidence
-Screenshots demonstrate filtered traffic, protocol breakdowns, and message interpretation.
+
+### BACnet Analysis
+
+**Filtered BACnet traffic**  
+![BACnet Filter](./bacnet-filter-applied.png)
+
+**NPDU / APDU expansion**  
+![BACnet NPDU APDU](./bacnet-npdu-apdu-expanded.png)
+
+**APDU / NPDU breakdown**  
+![BACnet Breakdown](./bacnet-apdu-npdu-breakdown.png)
 
 ---
 
