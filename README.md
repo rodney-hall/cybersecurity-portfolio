@@ -18,7 +18,15 @@ https://rodney-hall.github.io/cybersecurity-portfolio/
 
 ## Featured Projects (Hands-On)
 
-### ✅ Active Directory Home Lab (Windows Server 2022)
+### OT/ICS Foundations Mini-Lab (Purdue Model + IT/OT Segmentation)
+Foundational OT security lab focused on how enterprise IT and operational technology (OT) environments are separated to protect uptime and safety.
+- Simple IT ↔ OT segmentation diagram with an OT DMZ
+- Purdue Model overview (Levels 0–5)
+- OT incident evidence checklist for escalation-ready reporting
+
+**Project:** [OT/ICS Foundations Mini-Lab](projects/ot-ics-foundations/)
+
+### Active Directory Home Lab (Windows Server 2022)
 Built and organized a Windows domain lab to practice enterprise identity and structure.
 - Promoted Windows Server 2022 to **Domain Controller** (AD DS + DNS)
 - Created multi-region OU structure (**USA / Europe / Asia**)
@@ -26,7 +34,7 @@ Built and organized a Windows domain lab to practice enterprise identity and str
 - Added department OUs (**IT, HR, Accounting, Sales, Management**)
 - Created users, security groups, and computer/server objects using realistic naming
 
-📄 Lab 1 Write-Up: [AD OU Structure + Objects](projects/active-directory-home-lab/lab-01-ad-structure/README.md)
+ Lab 1 Write-Up: [AD OU Structure + Objects](projects/active-directory-home-lab/lab-01-ad-structure/README.md)
 
 ---
 
@@ -46,7 +54,7 @@ Built and organized a Windows domain lab to practice enterprise identity and str
 - Key Vault fundamentals (secrets management)
 - IAM permission review and access validation
 
-➡️ **Repo:** [Azure Cloud Security Labs](https://github.com/rodney-hall/azure-cloud-security-labs)
+ **Repo:** [Azure Cloud Security Labs](https://github.com/rodney-hall/azure-cloud-security-labs)
 
 ### Training
 - TryHackMe profile: - [tryhackme.com/p/rodney7hall](https://tryhackme.com/p/rodney7hall)
@@ -62,7 +70,7 @@ Built and organized a Windows domain lab to practice enterprise identity and str
 - Google Cybersecurity Certificate
 
 ---
-## 📄 Resume & Contact
+## Resume & Contact
 - **Resume (PDF):** [Download here](https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/RodneyHall_Resume.pdf)
 - **LinkedIn:** [linkedin.com/in/rodney-hall](https://www.linkedin.com/in/rodney-hall)
 - **Email:** [rodney7hall@gmail.com](mailto:rodney7hall@gmail.com)
