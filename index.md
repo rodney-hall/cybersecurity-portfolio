@@ -20,6 +20,14 @@ Hands-on Windows domain lab focused on identity, structure, and access managemen
 
 **Project:** [Active Directory Home Lab – AD Structure](projects/active-directory-home-lab/lab-01-ad-structure/)
 
+### ✅ OT/ICS Foundations Mini-Lab (Purdue Model + IT/OT Segmentation)
+Foundational OT security lab focused on how enterprise IT and operational technology (OT) environments are separated to protect uptime and safety.
+- Simple IT ↔ OT segmentation diagram with an OT DMZ
+- Purdue Model overview (Levels 0–5)
+- OT incident evidence checklist for escalation-ready reporting
+
+**Project:** [OT/ICS Foundations Mini-Lab](projects/ot-ics-foundations/)
+
 ---
 
 ## 🔎 Security Labs (Hands-On)
