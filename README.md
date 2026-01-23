@@ -66,16 +66,16 @@ Built and organized a Windows domain lab to practice enterprise identity, access
 - Intro Python for automation
 
 ### Azure Cloud Security Labs
-- RBAC / least privilege enforcement
-- Storage access control concepts (SAS)
-- Key Vault fundamentals (secrets management)
-- IAM permission review and access validation
+Hands-on Azure security labs focused on identity, access control, and least privilege enforcement.
+- Azure RBAC (role-based access control)
+- Microsoft Entra ID (Azure AD) fundamentals
+- Least privilege validation and access denial testing
+- Cloud security fundamentals and audit-ready evidence
 
- **Repo:** [Azure Cloud Security Labs](https://github.com/rodney-hall/azure-cloud-security-labs)
+**Repo:** [Azure Cloud Security Labs](https://github.com/rodney-hall/azure-cloud-security-labs)
 
 ### Training
 - TryHackMe profile: - [tryhackme.com/p/rodney7hall](https://tryhackme.com/p/rodney7hall)
-
 
 ---
 
