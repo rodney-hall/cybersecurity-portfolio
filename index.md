@@ -77,7 +77,6 @@ Hands-on Azure cloud security labs focused on identity, access control, and leas
 ### Training
 - TryHackMe profile: - [tryhackme.com/p/rodney7hall](https://tryhackme.com/p/rodney7hall)
 
-
 ---
 
 ## Certifications
@@ -85,6 +84,7 @@ Hands-on Azure cloud security labs focused on identity, access control, and leas
 - AWS Certified Cloud Practitioner
 - Microsoft AZ-900
 - Microsoft AZ-500
+- Industrial Control System Cybersecurity (ICS-300) – CISA / DHS
 - Google Cybersecurity Certificate
 
 ---
