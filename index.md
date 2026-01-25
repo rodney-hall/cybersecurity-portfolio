@@ -111,6 +111,6 @@ Hands-on Azure security labs focused on identity, access control, and least-priv
 ---
 
 ## Resume & Contact
-- **Resume (PDF):** https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/Rodney%20Hall%20Resume%202026.pdf
+- **Resume (PDF):** - **Resume (PDF):** [Download Resume](https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/Rodney%20Hall%20Resume%202026.pdf)
 - **LinkedIn:** [linkedin.com/in/hallrodney](https://www.linkedin.com/in/hallrodney/)
 - **Email:** [rodney7hall@gmail.com](mailto:rodney7hall@gmail.com)
