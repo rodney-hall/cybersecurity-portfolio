@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
-title: Cybersecurity Portfolio
-description: Projects from TryHackMe, Google Cybersecurity, and more
+title: Rodney Hall | OT / IT Cybersecurity Portfolio
+description: Entry-level OT/ICS-focused cybersecurity portfolio highlighting hands-on labs, incident analysis, and system security fundamentals across IT and operational environments.
+theme: jekyll-theme-slate
+markdown: kramdown
