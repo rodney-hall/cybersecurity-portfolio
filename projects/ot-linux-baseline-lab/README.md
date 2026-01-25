@@ -42,7 +42,7 @@ Rather than performing active exploitation, this lab emphasizes passive inspecti
 ---
 
 ## Screenshots
-Screenshots documenting each phase of the lab are provided in the `/screenshots` directory.
+Screenshots documenting each phase of the lab.
 
 ---
 
