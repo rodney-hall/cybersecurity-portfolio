@@ -23,6 +23,15 @@ Foundational OT security lab focused on how enterprise IT and operational techno
 
 **Project:** [OT/ICS Foundations Mini-Lab](projects/ot-ics-foundations/)
 
+### OT Linux Baseline & Service Visibility Lab
+Established a safe operational baseline for a Linux system in an OT-adjacent environment using passive inspection techniques.
+- Verified system identity and health
+- Enumerated running services and processes
+- Identified listening network ports without intrusive scanning
+- Applied availability-first OT security principles
+
+**Project:** [OT Linux Baseline & Visibility Lab](projects/ot-linux-baseline-lab/)
+
 ### OT Network Traffic Analysis (Wireshark)
 Hands-on analysis of OT/ICS network traffic using Wireshark to identify device discovery, control messages, and protocol behavior in industrial control systems.
 - Analyzed BACnet traffic (device discovery + NPDU/APDU inspection)
