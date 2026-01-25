@@ -41,14 +41,32 @@ Rather than performing active exploitation, this lab emphasizes passive inspecti
 
 ---
 
-## Screenshots
-Screenshots documenting each phase of the lab.
-
----
-
 ## Skills Demonstrated
 - Linux system administration
 - OT security fundamentals
 - Service and process visibility
 - Availability-first security mindset
 - Documentation and reporting
+
+--
+
+## Evidence & Screenshots
+
+### Hostname Configuration
+![Hostname Verification](screenshots/01-hostname-verification.png)
+
+### System Information
+![System Info](screenshots/02-system-info.png)
+
+### Resource Monitoring
+![HTOP Monitoring](screenshots/03-resource-monitoring-htop.png)
+
+### Active Services
+![Systemctl Services](screenshots/04-active-services.png)
+
+### Network Exposure Review
+![Network Ports](screenshots/05-network-ports.png)
+
+### Final System State
+![Summary State](screenshots/06-summary-state.png)
+
