@@ -15,6 +15,15 @@ This repository powers my public cybersecurity portfolio website.
 
 ## Featured Projects (Hands-On)
 
+### OT Linux Baseline & Service Visibility Lab
+Established a safe operational baseline for a Linux system in an OT-adjacent environment using passive inspection techniques.
+- Verified system identity and health
+- Enumerated running services and processes
+- Identified listening network ports without intrusive scanning
+- Applied availability-first OT security principles
+
+**Project:** [OT Linux Baseline & Visibility Lab](projects/ot-linux-baseline-lab/)
+
 ### OT/ICS Foundations Mini-Lab (Purdue Model + IT/OT Segmentation)
 Foundational OT security lab focused on how enterprise IT and operational technology (OT) environments are separated to protect uptime and safety.
 - Simple IT ↔ OT segmentation diagram with an OT DMZ
