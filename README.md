@@ -104,7 +104,6 @@ Hands-on Azure security labs focused on identity, access control, and least-priv
 - CompTIA Security+  
 - AWS Certified Cloud Practitioner  
 - Microsoft AZ-900  
-- Microsoft AZ-500  
 - Industrial Control System Cybersecurity (ICS-300) – CISA / DHS  
 - Google Cybersecurity Certificate  
 
