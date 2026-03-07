@@ -95,8 +95,17 @@ Hands-on Azure security labs focused on identity, access control, and least-priv
 
 ---
 
-## Training & Continuous Practice
-- TryHackMe profile: [tryhackme.com/p/rodney7hall](https://tryhackme.com/p/rodney7hall)
+### BAS Security Playbook
+
+Comprehensive security monitoring and incident response playbook for Building Automation Systems in defense and critical infrastructure environments.
+
+* Documented BAS architecture aligned to Purdue Model (Levels 0-5)
+* Catalogued 6 common attack scenarios with detection rules
+* Created monitoring strategies using Wireshark, SIEM, and behavioral analytics
+* Developed incident response procedures prioritizing operational continuity
+
+**Status:** Work in progress - actively developing based on ICS-300 training and industry standards  
+**Project:** [BAS Security Playbook](https://github.com/rodney-hall/bas-security-playbook)
 
 ---
 
