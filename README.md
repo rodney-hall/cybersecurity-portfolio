@@ -110,8 +110,6 @@ Comprehensive security monitoring and incident response playbook for Building Au
 
 ---
 
----
-
 ## Certifications
 - CompTIA Security+  
 - AWS Certified Cloud Practitioner  
