@@ -7,7 +7,7 @@ title: Rodney Hall | Cybersecurity Portfolio
   .hero {
     text-align: center;
     padding: 2.5em 0 2em;
-    border-bottom: 1px solid rgba(255,255,255,0.1);
+    border-bottom: 1px solid rgba(0,0,0,0.15);
     margin-bottom: 2em;
   }
   .hero h1 {
@@ -16,7 +16,7 @@ title: Rodney Hall | Cybersecurity Portfolio
     letter-spacing: 0.02em;
   }
   .hero .subtitle {
-    color: #aaa;
+    color: #000;
     font-size: 0.95em;
     margin: 0.3em 0 1.4em;
     letter-spacing: 0.04em;
@@ -45,7 +45,7 @@ title: Rodney Hall | Cybersecurity Portfolio
     margin: 2.5em 0 1em;
   }
   .about-text {
-    color: #ccc;
+    color: #000;
     font-size: 0.93em;
     line-height: 1.7;
     margin-bottom: 0;
@@ -59,19 +59,19 @@ title: Rodney Hall | Cybersecurity Portfolio
     list-style: none;
   }
   .cert-grid li {
-    background: rgba(255,255,255,0.05);
-    border: 1px solid rgba(255,255,255,0.12);
+    background: rgba(0,0,0,0.04);
+    border: 1px solid rgba(0,0,0,0.15);
     border-radius: 4px;
     padding: 0.3em 0.85em;
     font-size: 0.82em;
-    color: #ccc;
+    color: #000;
   }
   .card {
-    border: 1px solid rgba(255,255,255,0.1);
+    border: 1px solid rgba(0,0,0,0.15);
     border-radius: 6px;
     padding: 1.15em 1.4em;
     margin-bottom: 0.85em;
-    background: rgba(255,255,255,0.03);
+    background: rgba(0,0,0,0.02);
   }
   .card h3 {
     margin: 0 0 0.35em;
@@ -80,7 +80,7 @@ title: Rodney Hall | Cybersecurity Portfolio
   }
   .card p {
     margin: 0 0 0.65em;
-    color: #bbb;
+    color: #000;
     font-size: 0.88em;
     line-height: 1.6;
   }
@@ -88,12 +88,12 @@ title: Rodney Hall | Cybersecurity Portfolio
     font-size: 0.85em;
     font-weight: 600;
     text-decoration: none;
-    color: #7ec8e3;
+    color: #0366d6;
   }
   .card a.view-link:hover { text-decoration: underline; }
   .card .in-progress {
     font-size: 0.72em;
-    color: #999;
+    color: #555;
     font-weight: 400;
     margin-left: 0.5em;
   }
@@ -104,7 +104,7 @@ title: Rodney Hall | Cybersecurity Portfolio
     margin-top: 0.8em;
     font-size: 0.88em;
   }
-  .contact-row a { color: #7ec8e3; }
+  .contact-row a { color: #0366d6; }
 </style>
 
 <div class="hero">
@@ -178,7 +178,7 @@ Targeting <strong>SOC Analyst Tier 1–2</strong>, Cybersecurity Analyst, and In
 <div class="card">
   <h3>BAS Security Playbook <span class="in-progress">In Progress</span></h3>
   <p>Incident response playbook for Building Automation Systems — 6 attack scenarios with IOCs, detection rules, SIEM integration, and response procedures for critical infrastructure.</p>
-  <a class="view-link" href="https://rodney-hall.github.io/bas-security-playbook/">View Playbook &rarr;</a>
+  <a class="view-link" href="https://rodney-hall.github.io/bas-security-playbook/" target="_blank" rel="noopener noreferrer">View Playbook &rarr;</a>
 </div>
 
 <div class="section-label">Contact</div>

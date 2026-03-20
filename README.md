@@ -71,7 +71,7 @@ Passive baseline audit of an OT-adjacent Linux system: enumerated services, list
 
 ### BAS Security Playbook *(In Progress)*
 Incident response playbook for Building Automation Systems — 6 attack scenarios with IOCs, detection rules, SIEM integration, and response procedures for critical infrastructure.
-**[View Playbook →](https://rodney-hall.github.io/bas-security-playbook/)**
+**<a href="https://rodney-hall.github.io/bas-security-playbook/" target="_blank" rel="noopener noreferrer">View Playbook →</a>**
 
 ---
 
