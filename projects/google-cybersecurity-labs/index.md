@@ -3,6 +3,8 @@ layout: default
 title: SOC Operations & Incident Triage
 ---
 
+← [Back to Portfolio](https://rodney-hall.github.io/cybersecurity-portfolio/)
+
 # SOC Operations & Incident Triage
 
 ## Overview

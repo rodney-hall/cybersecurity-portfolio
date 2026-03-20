@@ -3,6 +3,8 @@ layout: default
 title: OT Network Threat Detection & Incident Analysis
 ---
 
+← [Back to Portfolio](https://rodney-hall.github.io/cybersecurity-portfolio/)
+
 # OT Network Threat Detection & Incident Analysis
 
 ## Overview

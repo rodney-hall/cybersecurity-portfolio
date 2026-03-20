@@ -3,6 +3,8 @@ layout: default
 title: Linux System Baseline — OT Environment
 ---
 
+← [Back to Portfolio](https://rodney-hall.github.io/cybersecurity-portfolio/)
+
 # Linux System Baseline — OT Environment
 
 ## Overview

@@ -3,6 +3,8 @@ layout: default
 title: OT/ICS Foundations — Purdue Model & IT/OT Segmentation
 ---
 
+← [Back to Portfolio](https://rodney-hall.github.io/cybersecurity-portfolio/)
+
 # OT/ICS Foundations — Purdue Model & IT/OT Segmentation
 
 ## Overview

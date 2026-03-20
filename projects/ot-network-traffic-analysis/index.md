@@ -3,6 +3,8 @@ layout: default
 title: Network Traffic Analysis — Wireshark / PCAP
 ---
 
+← [Back to Portfolio](https://rodney-hall.github.io/cybersecurity-portfolio/)
+
 # Network Traffic Analysis — Wireshark / PCAP
 
 ## Overview
