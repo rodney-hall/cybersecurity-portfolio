@@ -3,7 +3,7 @@
 **SOC Analyst | Incident Triage | Threat Detection | Security Operations**
 
 > Live site: [rodney-hall.github.io/cybersecurity-portfolio](https://rodney-hall.github.io/cybersecurity-portfolio/)
-> Resume: [Download PDF](https://rodney-hall.github.io/cybersecurity-portfolio/Rodney_Hall_Cybersecurity_Analyst_Resume.pdf)
+> Resume: [Download PDF](https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/Rodney_Hall_Cybersecurity_Analyst_Resume.pdf)
 
 ---
 
@@ -77,6 +77,6 @@ Incident response playbook for Building Automation Systems — 6 attack scenario
 
 ## Contact
 
-- **Resume:** [Download PDF](https://rodney-hall.github.io/cybersecurity-portfolio/Rodney_Hall_Cybersecurity_Analyst_Resume.pdf)
+- **Resume:** [Download PDF](https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/Rodney_Hall_Cybersecurity_Analyst_Resume.pdf)
 - **LinkedIn:** [linkedin.com/in/hallrodney](https://www.linkedin.com/in/hallrodney/)
 - **Email:** [rodney7hall@gmail.com](mailto:rodney7hall@gmail.com)

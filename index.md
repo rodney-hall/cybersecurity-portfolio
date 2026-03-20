@@ -110,7 +110,7 @@ title: Rodney Hall | Cybersecurity Portfolio
 <div class="hero">
   <h1>Rodney Hall</h1>
   <p class="subtitle">SOC Analyst &nbsp;·&nbsp; Incident Triage &nbsp;·&nbsp; Threat Detection &nbsp;·&nbsp; Security Operations</p>
-  <a class="btn-resume" href="https://rodney-hall.github.io/cybersecurity-portfolio/Rodney_Hall_Cybersecurity_Analyst_Resume.pdf" download>&#x2B07;&nbsp; Download Resume</a>
+  <a class="btn-resume" href="https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/Rodney_Hall_Cybersecurity_Analyst_Resume.pdf" download>&#x2B07;&nbsp; Download Resume</a>
 </div>
 
 <p class="about-text">
@@ -184,7 +184,7 @@ Targeting <strong>SOC Analyst Tier 1–2</strong>, Cybersecurity Analyst, and In
 <div class="section-label">Contact</div>
 
 <div class="contact-row">
-  <span>&#x1F4C4; <a href="https://rodney-hall.github.io/cybersecurity-portfolio/Rodney_Hall_Cybersecurity_Analyst_Resume.pdf">Resume (PDF)</a></span>
+  <span>&#x1F4C4; <a href="https://raw.githubusercontent.com/rodney-hall/cybersecurity-portfolio/main/Rodney_Hall_Cybersecurity_Analyst_Resume.pdf">Resume (PDF)</a></span>
   <span>&#x1F4BC; <a href="https://www.linkedin.com/in/hallrodney/">LinkedIn</a></span>
   <span>&#x2709;&#xFE0F; <a href="mailto:rodney7hall@gmail.com">rodney7hall@gmail.com</a></span>
 </div>
