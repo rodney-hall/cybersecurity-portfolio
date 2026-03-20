@@ -1,71 +1,54 @@
 # OT Network Threat Detection & Incident Analysis
 
 ## Overview
-This project simulates the detection and analysis of suspicious activity in an Operational Technology (OT) network. Using Wireshark and OT protocol traffic, the lab focuses on identifying behavior that could indicate unauthorized control, misconfiguration, or malicious activity in industrial control system (ICS) environments.
+
+Analyzed OT network traffic for indicators of unauthorized control activity and active reconnaissance. Identified Modbus/TCP function codes consistent with write operations issued without any authentication exchange, and flagged BACnet broadcast traffic exhibiting device enumeration patterns inconsistent with normal polling behavior. Documented IOCs across both protocols and produced findings and escalation recommendations aligned to ICS incident response procedures.
 
 ## Objective
-- Establish a baseline understanding of normal OT network behavior
-- Identify anomalous or risky OT protocol activity
-- Document findings using an incident-analysis mindset
+
+Detect and document anomalous OT protocol activity in captured network traffic and produce a written incident analysis with escalation rationale and mitigation recommendations.
 
 ## Tools Used
+
 - Wireshark
-- OT protocol PCAP files (BACnet, Modbus/TCP)
+- PCAP files (BACnet, Modbus/TCP)
 
-## Detection Scenarios Analyzed
+## What I Did
 
-### Scenario 1: Suspicious Modbus Control Activity
-During analysis of Modbus/TCP traffic, control-related function codes were observed that could impact device behavior if issued by an unauthorized source.
+- Analyzed Modbus/TCP traffic and identified control-oriented function codes with the potential to alter device register state
+- Documented cleartext Modbus command execution preceded by no authentication challenge — confirming unauthenticated write access
+- Correlated request-response pairs to confirm the commands were accepted and executed by the target device
+- Analyzed BACnet traffic for elevated Who-Is broadcast volume and timing inconsistent with normal polling intervals
+- Identified I-Am responses confirming device enumeration was successful — attacker-visible inventory of addressable devices
+- Assessed combined findings across both protocols to evaluate overall threat posture
+- Documented all IOCs and produced a structured incident analysis with escalation rationale
 
-**Why this matters in OT**
-- Modbus lacks authentication and encryption
-- Write or diagnostic functions can alter device state
-- Unauthorized commands pose availability and safety risks
+## Evidence / Findings
 
-**Indicators observed**
-- Control-oriented Modbus function codes
-- Clear-text request/response communication
-- Command execution without authentication
-
----
-
-### Scenario 2: BACnet Device Discovery Abuse
-BACnet broadcast traffic was analyzed to identify excessive or unexpected device discovery activity.
-
-**Why this matters in OT**
-- BACnet discovery reveals device presence and metadata
-- Repeated discovery may indicate reconnaissance
-- OT environments prioritize stability and minimal traffic
-
-**Indicators observed**
-- Broadcast Who-Is / I-Am messages
-- Device enumeration behavior
-- Lack of access control at the protocol level
-
-## Evidence
-
-### BACnet — Suspicious Write / Control Behavior
-![BACnet Suspicious Write](./bacnet-device-discovery.png)
-
-### BACnet — Device Discovery / Reconnaissance
-![BACnet Reconnaissance](./bacnet-reconnaissance.png)
-
-### Modbus — Suspicious Control Command
+**Modbus — suspicious control command**
 ![Modbus Suspicious Command](./modbus-suspicious-command.png)
+Modbus frame showing a write-class function code issued to a target device. No authentication exchange precedes the command — the device accepted the instruction without verifying the source.
 
-### Modbus — Request / Response Correlation
+**Modbus — request/response correlation**
 ![Modbus Request Response](./modbus-request-response.png)
+Corresponding response frame confirms the write command was executed. Unauthenticated control of device state confirmed.
 
----
+**BACnet — active device enumeration**
+![BACnet Reconnaissance](./bacnet-reconnaissance.png)
+Who-Is broadcast traffic captured at volume and timing inconsistent with normal device polling — consistent with active device discovery by an unauthorized source.
 
-## Incident Analysis Summary
-Based on the observed traffic, the activity would warrant escalation in a monitored OT environment. While no destructive behavior was confirmed, the lack of authentication and visibility into command intent presents a risk to system availability and safety.
+**BACnet — enumeration confirmed**
+![BACnet Device Discovery](./bacnet-device-discovery.png)
+I-Am responses confirm target devices responded to the discovery traffic, providing the source with an addressable device inventory.
 
-## Recommended Actions
-- Monitor OT protocol traffic for control-oriented commands
-- Establish baselines for normal polling and discovery behavior
-- Restrict OT network access through segmentation and firewall rules
-- Escalate suspicious control activity for further investigation
+## Outcome / Recommendations
 
-## Status
-Initial threat detection analysis complete.
+The observed activity meets the escalation threshold for a monitored OT environment. Unauthenticated write commands combined with active reconnaissance behavior represents a credible risk to device availability and operational safety. While no destructive outcome was confirmed in the captured traffic, the conditions exist for an unauthorized actor to alter device state or map the OT network without detection.
+
+**Recommended actions:**
+
+- Implement passive OT network monitoring with alert rules for write-class Modbus function codes (FC 5, 6, 15, 16) from unapproved source IPs
+- Establish baselines for normal BACnet polling intervals and trigger alerts on Who-Is broadcast volume deviation
+- Restrict Modbus write access to approved engineering workstation IPs via firewall ACLs
+- Segment the OT network to limit broadcast domain scope and contain reconnaissance exposure
+- Escalate any confirmed write commands from unrecognized sources to OT security operations for immediate review

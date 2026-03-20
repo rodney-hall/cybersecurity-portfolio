@@ -1,3 +1,8 @@
+---
+layout: default
+title: Linux System Baseline — OT Environment
+---
+
 # Linux System Baseline — OT Environment
 
 ## Overview
@@ -61,7 +66,7 @@ Active network interfaces listed with IP addressing — documents which segments
 
 ## Outcome / Recommendations
 
-Baseline established for the `ot-lab` system. The documented service list, port exposure profile, and resource utilization provide the reference state needed to detect unauthorized changes, new services, or unexpected network connections on future audits. This baseline approach is directly applicable to production OT environments where active vulnerability scanning would risk process disruption.
+Baseline established for the `ot-lab` system. The documented service list, port exposure profile, and resource utilization provide the reference state needed to detect unauthorized changes, new services, or unexpected network connections on future audits.
 
 - Store baseline snapshots in a version-controlled security runbook and re-run on a defined cadence
 - Diff service lists and listening port output against the baseline after any maintenance window
