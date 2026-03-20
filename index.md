@@ -178,7 +178,7 @@ Targeting <strong>SOC Analyst Tier 1–2</strong>, Cybersecurity Analyst, and In
 <div class="card">
   <h3>BAS Security Playbook <span class="in-progress">In Progress</span></h3>
   <p>Incident response playbook for Building Automation Systems — 6 attack scenarios with IOCs, detection rules, SIEM integration, and response procedures for critical infrastructure.</p>
-  <a class="view-link" href="https://rodney-hall.github.io/bas-security-playbook/" target="_blank" rel="noopener noreferrer">View Playbook &rarr;</a>
+  <a class="view-link" href="https://rodney-hall.github.io/cybersecurity-portfolio/projects/bas-security-playbook/">View Playbook &rarr;</a>
 </div>
 
 <div class="section-label">Contact</div>
